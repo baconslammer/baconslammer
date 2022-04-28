@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baconslammer
-- 👀 I’m interested in ...software development (full stack) 
-- 🌱 I’m currently learning ... foundations in TOD
-- 💞️ I’m looking to collaborate on ...future projects 
+- 👀 I’m interested in ...machine learning and user interface 
+- 🌱 I’m currently learning ...web development using TOD 
+- 💞️ I’m looking to collaborate on ...open-source projects
 - 📫 How to reach me ...discord baconslammer
 
 <!---
