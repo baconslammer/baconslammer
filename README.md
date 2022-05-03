@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baconslammer
 - 👀 I’m interested in ...machine learning, automation, and user interface 
-- 🌱 I’m currently learning ...web development using TOD 
+- 🌱 I’m currently learning ...web development using TOP 
 - 💞️ I’m looking to collaborate on ...open-source projects
 - 📫 How to reach me ...discord baconslammer
 
