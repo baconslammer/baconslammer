@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @baconslammer
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...full stack development using TOP and cybersecurity
-- 💞️ I’m looking to collaborate on ...open-source projects
+- 👀 I’m interested in ...your mom.
+- 🌱 I’m currently learning ... API
 - 📫 How to reach me ...discord baconslammer
 
 <!---
